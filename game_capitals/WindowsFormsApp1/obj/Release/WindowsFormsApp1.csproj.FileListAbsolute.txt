@@ -1,0 +1,21 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\kolya\Desktop\⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺\копия флешки\легендарка\анлак\бойбородина\Игра столицы стран\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
